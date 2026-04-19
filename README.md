@@ -120,8 +120,8 @@ SQLite DB WebSocket
 
 | Role | Name |
 |------|------|
-| **Founder & Lead Developer** | Denis Ijcu Sanchez Leyva |
-| **AI Architecture & Debugging** | DeepSeek AI (copilot) |
+| **Founder & Lead Developer** | Denis Sanchez Leyva |
+| **AI Architecture & Debugging** | Gemini, Claude, Grok & more ... |
 | **Company** | Vertex Coders LLC |
 
 ---
