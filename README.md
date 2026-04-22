@@ -16,7 +16,7 @@
 
 | Platform | Link |
 |----------|------|
-| **Android App (Phone)** | [Vertex Sentinel on Play Store](https://play.google.com/store/apps/details?id=com.vertex.centinel) |
+| **Android App (Phone)** | [https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile) |
 | **Wear OS (Galaxy Watch 5)** | [Vertex Sentinel Wear on Play Store](https://play.google.com/store/apps/details?id=com.vertex.sentinel.wear) |
 
 ---
