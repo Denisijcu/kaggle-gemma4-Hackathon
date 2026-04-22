@@ -142,11 +142,11 @@ SQLite DB WebSocket
 - 📱 **Android App:** [Vertex Sentinel on Play Store](https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile)
 - ⌚ **Wear OS App:** [Vertex Sentinel Wear on Play Store](https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile)
 - 🤗 **Hugging Face Space:** https://huggingface.co/spaces/Denisijcu/oracle-hub-backend
-- 💻 **GitHub:** https://github.com/Denisijcu
+- 💻 **GitHub:** [https://github.com/Denisijcu](https://github.com/Denisijcu/Hackathon-Kaggle-OracleAI)
 
-- <div style="margin-bottom: 30px;">
+ <div style="margin-bottom: 30px;">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile" alt="QR Code" style="width: 70px; height: auto; opacity: 0.8;">
-  <p style="font-size: 9px; color: var(--muted); margin-top: 8px;">Descarga la app</p>
+  <p style="font-size: 9px; color: var(--muted); margin-top: 8px;">Download Here</p>
 </div>
 
 ---
