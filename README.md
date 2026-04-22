@@ -16,8 +16,8 @@
 
 | Platform | Link |
 |----------|------|
-| **Android App (Phone)** | [https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile) |
-| **Wear OS (Galaxy Watch 5)** | [https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile) |
+| **Android + Wear OS App)** | [https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile) |
+
 
 ---
 
@@ -144,10 +144,7 @@ SQLite DB WebSocket
 - 🤗 **Hugging Face Space:** https://huggingface.co/spaces/Denisijcu/oracle-hub-backend
 - 💻 **GitHub:** [https://github.com/Denisijcu](https://github.com/Denisijcu/Hackathon-Kaggle-OracleAI)
 
- <div style="margin-bottom: 30px;">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile" alt="QR Code" style="width: 70px; height: auto; opacity: 0.8;">
-  <p style="font-size: 9px; color: var(--muted); margin-top: 8px;">Download Here</p>
-</div>
+ 
 
 ---
 
