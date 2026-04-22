@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[ORACLEAI STUDIO — LIVE DEMO](https://hackathon-oracleai-studio-intro.netlify.app/)**
+🔗 **[ORACLEAI STUDIO — LIVE DEMO](https://kaggle-hackathon-gemma4.netlify.app/)**
 
 > Click the link above to experience the full multimodal AI platform.
 
