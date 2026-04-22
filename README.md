@@ -139,8 +139,7 @@ SQLite DB WebSocket
 ## 📎 Submission Links
 
 - 🌐 **Live Demo:** https://kaggle-hackathon-gemma4.netlify.app/
-- 📱 **Android App:** [Vertex Sentinel on Play Store](https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile)
-- ⌚ **Wear OS App:** [Vertex Sentinel Wear on Play Store](https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile)
+- 📱 **Android + Wear OS App:** [Vertex Sentinel on Play Store](https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile)
 - 🤗 **Hugging Face Space:** https://huggingface.co/spaces/Denisijcu/oracle-hub-backend
 - 💻 **GitHub:** [https://github.com/Denisijcu](https://github.com/Denisijcu/Hackathon-Kaggle-OracleAI)
 
