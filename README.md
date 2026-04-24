@@ -16,7 +16,7 @@
 
 | Platform | Link |
 |----------|------|
-| **Android + Wear OS App** | [Download on Google Play](https://play.google.com/store/apps/details?id=com.vertex.sentinel_mobile) |
+| **Android + Wear OS App** | [Download on Google Play]( https://play.google.com/store/apps/details?id=com.vertex.centinel&pcampaignid=web_share) |
 
 
 ---
